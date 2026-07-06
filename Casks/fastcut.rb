@@ -1,6 +1,6 @@
 cask "fastcut" do
-  version "1.0.1"
-  sha256 "0b36b5ca88109c9577860987176a5eee9fa3efe90ef784cd9d17adc29908bbbb"
+  version "1.0.2"
+  sha256 "b18414edcb50cf1fe021cd3233516b0fa51d872628f169fd5673e4e40b932d19"
 
   url "https://github.com/7757/FastCut/releases/download/v#{version}/FastCut-#{version}-macOS.zip"
   name "FastCut"
